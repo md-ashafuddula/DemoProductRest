@@ -15,7 +15,7 @@
 
 **Response**
 
-``
+```
 [
     {
         "id": 2,
@@ -38,7 +38,7 @@
         "price": 33090.0
     }
 ]
-``
+```
 
 ![image](https://user-images.githubusercontent.com/20375942/171580528-c68c1399-8967-43c0-890c-3c5b5bec1823.png)
 
@@ -48,12 +48,12 @@
 
 **Request to save data**
 
-``
+```
 {
     "name": "Realme 89j",
     "price": 800.5
 }
-``
+```
 
 **Response _if product saved or not_**
 
@@ -71,13 +71,13 @@
 
 **Request in JSON body**
 
-``
+```
 {
     "id" : 2,
     "name": "Realme 8",
     "price": 13000
 }
-``
+```
 
 **Response**
 
